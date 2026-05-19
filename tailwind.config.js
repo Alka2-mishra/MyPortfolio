@@ -8,7 +8,7 @@ export default {
       },
       backgroundImage: {
         'hero-grid':
-          'radial-gradient(circle at top left, rgba(45, 212, 191, 0.18), transparent 28%), radial-gradient(circle at top right, rgba(251, 191, 36, 0.16), transparent 22%), linear-gradient(180deg, #07111f 0%, #0b1220 48%, #f8fafc 48%, #f8fafc 100%)',
+          'radial-gradient(circle at 12% 8%, rgba(20, 184, 166, 0.24), transparent 30%), radial-gradient(circle at 86% 16%, rgba(245, 158, 11, 0.22), transparent 28%), radial-gradient(circle at 90% 85%, rgba(14, 116, 144, 0.2), transparent 30%), linear-gradient(180deg, #05252a 0%, #0a2d34 45%, #f6f8f7 45%, #f6f8f7 100%)',
       },
     },
   },
