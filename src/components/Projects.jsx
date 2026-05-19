@@ -41,7 +41,7 @@ export default function Projects() {
           {projects.map((project, index) => (
             <motion.article
               key={project.title}
-              className="min-w-[320px] snap-start rounded-[2rem] bg-gradient-to-br from-indigo-600/40 to-purple-600/30 p-8 text-white shadow-lg ring-1 ring-indigo-500/30 backdrop-blur md:min-w-[380px] lg:min-w-[420px]"
+              className="min-w-[420px] snap-start rounded-[1.5rem] bg-gradient-to-br from-indigo-600/40 to-purple-600/30 p-6 text-white shadow-lg ring-1 ring-indigo-500/30 backdrop-blur md:min-w-[520px] lg:min-w-[620px] h-80 overflow-auto"
               variants={projectCardVariants}
               custom={index}
               initial="hidden"

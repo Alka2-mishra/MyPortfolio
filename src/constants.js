@@ -29,40 +29,40 @@ export const projects = [
     title: 'BrainWave',
     year: 'AI Platform',
     description:
-      'An AI-focused product experience project centered on modern UI, intelligent workflows, and practical problem solving.',
-    tags: ['AI', 'Product', 'Web App', 'Frontend'],
+      'Modern AI-powered productivity platform using React.js with intelligent features like AI-assisted content generation, task organization, and dynamic dashboards. Implemented responsive components with smooth animations, reusable architecture, and efficient state management for enhanced performance and user experience.',
+    tags: ['AI', 'React.js', 'UI/UX', 'Frontend', 'Productivity'],
     repo: 'https://github.com/Alka2-mishra/BrainWave',
   },
   {
     title: 'Invexa',
     year: 'Product Build',
     description:
-      'A full-stack product project focused on clean architecture, responsive interfaces, and reliable end-to-end user flows.',
-    tags: ['Full Stack', 'UX', 'Web', 'Scalable'],
+      'Full-stack inventory and billing management system for small businesses with secure authentication and role-based access control using ASP.NET Core. Features real-time inventory tracking, invoice generation, sales reporting, and analytics with responsive interfaces and optimized database queries.',
+    tags: ['Full Stack', 'ASP.NET Core', 'SQL', 'RBAC', 'Business Tools'],
     repo: 'https://github.com/Alka2-mishra/Invexa',
   },
   {
     title: 'CareNova',
     year: '2025',
     description:
-      'MERN-based healthcare platform for video, audio, and chat communication with a generative AI symptom checker and digital prescriptions.',
-    tags: ['MERN', 'AI', 'Healthcare', 'Real-time communication'],
+      'MERN-based healthcare platform enabling secure real-time video, audio, and chat communication between doctors and patients. Integrated an AI-powered symptom checker using Generative AI to analyze patient inputs and provide preliminary health recommendations. Implemented digital prescription management and appointment handling to improve accessibility and workflow efficiency. Designed scalable backend services and optimized APIs to support concurrent users and seamless real-time interactions.',
+    tags: ['MERN', 'Generative AI', 'Real-time', 'Healthcare', 'Telemedicine'],
     repo: 'https://github.com/Alka2-mishra/CareNova',
   },
   {
     title: 'Evalo',
     year: 'Cloud IDE',
     description:
-      'Cloud-based IDE supporting 10+ languages with real-time execution, execution history, smart output handling, and theme customization.',
-    tags: ['Cloud', 'IDE', 'Collaboration', 'Multi-language'],
+      'Cloud-based online IDE supporting execution of 10+ programming languages with real-time code compilation and output handling. Implemented features such as execution history, customizable themes, smart output formatting, and advanced search functionality. Developed secure code execution workflows and optimized request handling for improved system performance and scalability. Enhanced collaboration by enabling code sharing, responsive UI design, and efficient multi-user interaction capabilities.',
+    tags: ['Cloud IDE', 'Multi-language', 'Collaboration', 'Real-time Execution', 'Security'],
     repo: 'https://github.com/Alka2-mishra/evalo',
   },
   {
     title: 'TourSafe',
     year: 'Safety Tech',
     description:
-      'Tourist safety system with AI anomaly detection, geo-fencing, multilingual SOS alerts, and automated e-FIR generation.',
-    tags: ['AI', 'Geo-fencing', 'Safety', 'Automation'],
+      'AI-driven tourist safety platform featuring anomaly detection and geo-fencing for real-time traveler monitoring and protection. Integrated multilingual SOS alerts, automated e-FIR generation, and emergency response functionalities for rapid assistance during critical situations. Designed accessible and user-friendly interfaces to improve usability for domestic and international travelers. Collaborated on scalable system architecture and intelligent safety workflows to enhance emergency communication and incident management.',
+    tags: ['AI', 'Geo-fencing', 'SOS', 'Emergency Response', 'Multilingual'],
     repo: 'https://github.com/Alka2-mishra/toursafe',
   },
 ]
@@ -71,7 +71,7 @@ export const experiences = [
   {
     role: 'Python Trainee',
     org: 'Python Training',
-    duration: 'Dec 2024 - Feb 2025',
+    duration: 'Dec 2025 - Feb 2026',
     details: [
       'Completed intensive training in OOP, exception handling, collections, and file handling.',
       'Built 5+ mini-projects and coding exercises to strengthen debugging and problem solving.',

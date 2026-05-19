@@ -67,7 +67,6 @@ export default function AboutMe() {
         <SectionTitle
           eyebrow="Education"
           title="Strong academic foundation"
-          description="Your portfolio presents the degree, institution, and performance clearly so recruiters can see the core profile immediately."
         />
         <motion.div
           className="rounded-[2rem] bg-gradient-to-br from-slate-800/80 to-slate-800/40 p-8 shadow-lg ring-1 ring-cyan-500/30 backdrop-blur"
